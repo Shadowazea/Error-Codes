@@ -1,7 +1,6 @@
 ---- Minecraft Crash Report ----
 // My bad.
 
-Time: 2025-02-25 14:49:03
 Description: charTyped event handler
 
 java.lang.IllegalStateException: Rendersystem called from wrong thread
